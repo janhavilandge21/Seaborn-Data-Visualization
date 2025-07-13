@@ -1,4 +1,6 @@
 📊 Seaborn Data Visualization Project
+
+
 This project demonstrates various data visualization techniques using Seaborn in Python. It explores multiple built-in datasets such as tips, titanic, etc., and visualizes relationships and distributions using different plot types.
 
 📁 Project Structure
@@ -64,9 +66,6 @@ KDE and histogram for density estimation
 FacetGrid for multi-dimensional plotting
 
 🚀 How to Run
-Clone the repository:
-git clone https://github.com/yourusername/seaborn-visualization.git
-
 Open the Jupyter Notebook:
 jupyter notebook Seaborn.ipynb
 Run each cell to view the visualizations and code.
